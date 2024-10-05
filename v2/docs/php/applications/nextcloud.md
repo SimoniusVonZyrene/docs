@@ -45,7 +45,7 @@ cd ~/tmp
 3. Download and extract the latest **Nextcloud** version.
 
 ```
-curl -sLo nextcloud.zip https://download.nextcloud.com/server/releases/latest.zip && unzip nextcloud.zip -d nextcloud
+curl -sLo nextcloud.zip https://download.nextcloud.com/server/releases/nextcloud-29.0.7.zip && unzip nextcloud.zip -d nextcloud
 ```
 
 4. Copy files to the **root directory** of your site:
